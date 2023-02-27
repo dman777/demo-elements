@@ -1,6 +1,6 @@
 {
   "name": "@foo/atmus-ui",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "lit elements demo",
   "type": "module",
   "main": "index.js",
@@ -10,7 +10,7 @@
   },
   "exports": {
     ".": "./index.js",
-    "./atmus-button.js": "./atmus-button.js",
+    "./atmus-button.js": "./button/atmus-button.js",
     "./atmus-radio.js": "./atmus-radio.js",
     "./atmus-checkbox.js": "./atmus-checkbox.js"
   },
